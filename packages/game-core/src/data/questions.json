@@ -1,0 +1,1307 @@
+{
+ "version": 1,
+ "language": "vi",
+ "note": "Bản nháp 27/10/2026, cần người dùng rà soát nội dung trước khi dùng. Lớp 5 đến 12, kiến thức tổng hợp. answer là chỉ số (0 = A, 3 = D) của đáp án đúng trong options.",
+ "questions": [
+  {
+   "id": "q001",
+   "grade": 5,
+   "subject": "Toán",
+   "question": "Hình vuông có cạnh 5 cm. Chu vi hình vuông là bao nhiêu?",
+   "options": [
+    "15 cm",
+    "10 cm",
+    "20 cm",
+    "25 cm"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q002",
+   "grade": 5,
+   "subject": "Toán",
+   "question": "3/4 của 20 là bao nhiêu?",
+   "options": [
+    "10",
+    "5",
+    "15",
+    "12"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q003",
+   "grade": 5,
+   "subject": "Toán",
+   "question": "Số thập phân 0,5 bằng phân số nào dưới đây?",
+   "options": [
+    "5/100",
+    "1/2",
+    "2/5",
+    "1/5"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q004",
+   "grade": 5,
+   "subject": "Toán",
+   "question": "Diện tích hình tròn bán kính r được tính bằng công thức nào ở tiểu học?",
+   "options": [
+    "r × 2 × 3,14",
+    "r × r × 3,14",
+    "r × 3,14",
+    "r × r × 2"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q005",
+   "grade": 5,
+   "subject": "Toán",
+   "question": "1 giờ 30 phút bằng bao nhiêu phút?",
+   "options": [
+    "130 phút",
+    "60 phút",
+    "90 phút",
+    "150 phút"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q006",
+   "grade": 5,
+   "subject": "Toán",
+   "question": "Một năm thường có bao nhiêu tháng có 31 ngày?",
+   "options": [
+    "8",
+    "6",
+    "7",
+    "5"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q007",
+   "grade": 6,
+   "subject": "Toán",
+   "question": "Số nguyên tố nhỏ nhất là số nào?",
+   "options": [
+    "2",
+    "1",
+    "0",
+    "3"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q008",
+   "grade": 6,
+   "subject": "Toán",
+   "question": "Bội chung nhỏ nhất của 4 và 6 là bao nhiêu?",
+   "options": [
+    "24",
+    "12",
+    "10",
+    "2"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q009",
+   "grade": 6,
+   "subject": "Toán",
+   "question": "Kết quả của phép tính −3 + 5 là bao nhiêu?",
+   "options": [
+    "2",
+    "−8",
+    "−2",
+    "8"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q010",
+   "grade": 7,
+   "subject": "Toán",
+   "question": "Tổng ba góc trong một tam giác bằng bao nhiêu độ?",
+   "options": [
+    "90°",
+    "270°",
+    "360°",
+    "180°"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q011",
+   "grade": 7,
+   "subject": "Toán",
+   "question": "Hai góc đối đỉnh thì có quan hệ thế nào?",
+   "options": [
+    "Luôn khác nhau",
+    "Bằng nhau",
+    "Bù nhau",
+    "Phụ nhau"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q012",
+   "grade": 8,
+   "subject": "Toán",
+   "question": "Căn bậc hai số học của 81 là bao nhiêu?",
+   "options": [
+    "9",
+    "8",
+    "7",
+    "18"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q013",
+   "grade": 8,
+   "subject": "Toán",
+   "question": "Giải phương trình 2x + 6 = 14. Giá trị của x là bao nhiêu?",
+   "options": [
+    "5",
+    "10",
+    "4",
+    "3"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q014",
+   "grade": 8,
+   "subject": "Toán",
+   "question": "Khai triển hằng đẳng thức (a + b)² bằng gì?",
+   "options": [
+    "a² + 2ab + b²",
+    "a² + b²",
+    "a² + ab + b²",
+    "a² − 2ab + b²"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q015",
+   "grade": 9,
+   "subject": "Toán",
+   "question": "Phương trình x² − 5x + 6 = 0 có hai nghiệm nào?",
+   "options": [
+    "x = 5 và x = 6",
+    "x = −2 và x = −3",
+    "x = 1 và x = 6",
+    "x = 2 và x = 3"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q016",
+   "grade": 9,
+   "subject": "Toán",
+   "question": "Tam giác vuông có hai cạnh góc vuông a, b và cạnh huyền c. Theo định lý Pytago, c² bằng gì?",
+   "options": [
+    "a² − b²",
+    "a² + b²",
+    "2ab",
+    "a + b"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q017",
+   "grade": 10,
+   "subject": "Toán",
+   "question": "Giá trị của sin²x + cos²x bằng bao nhiêu?",
+   "options": [
+    "2",
+    "sin 2x",
+    "0",
+    "1"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q018",
+   "grade": 11,
+   "subject": "Toán",
+   "question": "Đạo hàm của hàm số y = x² là gì?",
+   "options": [
+    "x",
+    "x²",
+    "2",
+    "2x"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q019",
+   "grade": 11,
+   "subject": "Toán",
+   "question": "Giá trị của log₂ 8 là bao nhiêu?",
+   "options": [
+    "8",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q020",
+   "grade": 12,
+   "subject": "Toán",
+   "question": "Một nguyên hàm của hàm số f(x) = 2x là hàm nào?",
+   "options": [
+    "x + C",
+    "2 + C",
+    "2x² + C",
+    "x² + C"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q021",
+   "grade": 12,
+   "subject": "Toán",
+   "question": "Đơn vị ảo i trong số phức thỏa mãn i² bằng bao nhiêu?",
+   "options": [
+    "0",
+    "i",
+    "1",
+    "−1"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q022",
+   "grade": 5,
+   "subject": "Ngữ văn",
+   "question": "Câu tục ngữ \"Uống nước nhớ nguồn\" nói về điều gì?",
+   "options": [
+    "Tính chăm chỉ",
+    "Sự tiết kiệm",
+    "Lòng biết ơn",
+    "Sự dũng cảm"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q023",
+   "grade": 5,
+   "subject": "Ngữ văn",
+   "question": "Tác giả của Truyện Kiều là ai?",
+   "options": [
+    "Hồ Xuân Hương",
+    "Nguyễn Trãi",
+    "Nguyễn Du",
+    "Nguyễn Đình Chiểu"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q024",
+   "grade": 6,
+   "subject": "Ngữ văn",
+   "question": "Từ nào trái nghĩa với từ \"chăm chỉ\"?",
+   "options": [
+    "Lười biếng",
+    "Cần cù",
+    "Chịu khó",
+    "Siêng năng"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q025",
+   "grade": 7,
+   "subject": "Ngữ văn",
+   "question": "Bài thơ \"Nam quốc sơn hà\" được viết theo thể thơ nào?",
+   "options": [
+    "Thất ngôn tứ tuyệt",
+    "Lục bát",
+    "Ngũ ngôn tứ tuyệt",
+    "Song thất lục bát"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q026",
+   "grade": 7,
+   "subject": "Ngữ văn",
+   "question": "Bài thơ \"Bánh trôi nước\" là của tác giả nào?",
+   "options": [
+    "Bà Huyện Thanh Quan",
+    "Đoàn Thị Điểm",
+    "Nguyễn Du",
+    "Hồ Xuân Hương"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q027",
+   "grade": 8,
+   "subject": "Ngữ văn",
+   "question": "Truyện ngắn \"Lão Hạc\" là của nhà văn nào?",
+   "options": [
+    "Ngô Tất Tố",
+    "Nguyên Hồng",
+    "Tô Hoài",
+    "Nam Cao"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q028",
+   "grade": 9,
+   "subject": "Ngữ văn",
+   "question": "Truyện thơ \"Lục Vân Tiên\" là của tác giả nào?",
+   "options": [
+    "Nguyễn Khuyến",
+    "Tú Xương",
+    "Nguyễn Du",
+    "Nguyễn Đình Chiểu"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q029",
+   "grade": 9,
+   "subject": "Ngữ văn",
+   "question": "Bài thơ \"Đồng chí\" là của nhà thơ nào?",
+   "options": [
+    "Tố Hữu",
+    "Phạm Tiến Duật",
+    "Huy Cận",
+    "Chính Hữu"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q030",
+   "grade": 11,
+   "subject": "Ngữ văn",
+   "question": "Truyện ngắn \"Vợ chồng A Phủ\" là của nhà văn nào?",
+   "options": [
+    "Tô Hoài",
+    "Nam Cao",
+    "Kim Lân",
+    "Nguyễn Tuân"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q031",
+   "grade": 12,
+   "subject": "Ngữ văn",
+   "question": "Ai là người đọc bản Tuyên ngôn Độc lập ngày 2/9/1945 tại quảng trường Ba Đình?",
+   "options": [
+    "Trường Chinh",
+    "Hồ Chí Minh",
+    "Võ Nguyên Giáp",
+    "Phạm Văn Đồng"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q032",
+   "grade": 6,
+   "subject": "Vật lí",
+   "question": "Đơn vị đo lực trong hệ SI là gì?",
+   "options": [
+    "Pascal (Pa)",
+    "Jun (J)",
+    "Oát (W)",
+    "Niutơn (N)"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q033",
+   "grade": 6,
+   "subject": "Vật lí",
+   "question": "Đơn vị đo khối lượng trong hệ SI là gì?",
+   "options": [
+    "Kilôgam",
+    "Lít",
+    "Mét",
+    "Giây"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q034",
+   "grade": 7,
+   "subject": "Vật lí",
+   "question": "Âm thanh không truyền được trong môi trường nào?",
+   "options": [
+    "Chân không",
+    "Thép",
+    "Không khí",
+    "Nước"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q035",
+   "grade": 8,
+   "subject": "Vật lí",
+   "question": "Vận tốc ánh sáng trong chân không xấp xỉ bao nhiêu?",
+   "options": [
+    "30 000 km/s",
+    "300 000 km/s",
+    "3 000 km/s",
+    "340 m/s"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q036",
+   "grade": 8,
+   "subject": "Vật lí",
+   "question": "Đơn vị đo cường độ dòng điện là gì?",
+   "options": [
+    "Oát (W)",
+    "Ampe (A)",
+    "Ôm (Ω)",
+    "Vôn (V)"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q037",
+   "grade": 8,
+   "subject": "Vật lí",
+   "question": "Nước sôi ở nhiệt độ bao nhiêu độ C khi áp suất là 1 atm?",
+   "options": [
+    "100 °C",
+    "90 °C",
+    "120 °C",
+    "0 °C"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q038",
+   "grade": 9,
+   "subject": "Vật lí",
+   "question": "Theo định luật Ôm, cường độ dòng điện I được tính bằng công thức nào?",
+   "options": [
+    "I = U + R",
+    "I = U × R",
+    "I = R / U",
+    "I = U / R"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q039",
+   "grade": 10,
+   "subject": "Vật lí",
+   "question": "Gia tốc rơi tự do ở gần mặt đất xấp xỉ bao nhiêu?",
+   "options": [
+    "0,98 m/s²",
+    "9,8 m/s²",
+    "98 m/s²",
+    "10 km/h"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q040",
+   "grade": 10,
+   "subject": "Vật lí",
+   "question": "Công suất P được tính bằng công thức nào (A là công, t là thời gian)?",
+   "options": [
+    "P = A + t",
+    "P = A × t",
+    "P = t / A",
+    "P = A / t"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q041",
+   "grade": 12,
+   "subject": "Vật lí",
+   "question": "Hiện tượng khúc xạ ánh sáng xảy ra khi nào?",
+   "options": [
+    "Ánh sáng đi qua một khe hẹp",
+    "Ánh sáng bị vật đen hấp thụ hoàn toàn",
+    "Ánh sáng truyền thẳng trong cùng một môi trường",
+    "Ánh sáng đi qua mặt phân cách giữa hai môi trường trong suốt khác nhau"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q042",
+   "grade": 8,
+   "subject": "Hóa học",
+   "question": "Công thức hóa học của nước là gì?",
+   "options": [
+    "O₂",
+    "NaCl",
+    "H₂O",
+    "CO₂"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q043",
+   "grade": 8,
+   "subject": "Hóa học",
+   "question": "Kí hiệu hóa học của nguyên tố sắt là gì?",
+   "options": [
+    "S",
+    "Fe",
+    "Ag",
+    "Au"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q044",
+   "grade": 8,
+   "subject": "Hóa học",
+   "question": "Kí hiệu hóa học của nguyên tố vàng là gì?",
+   "options": [
+    "Fe",
+    "Au",
+    "Cu",
+    "Ag"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q045",
+   "grade": 8,
+   "subject": "Hóa học",
+   "question": "Khí nào chiếm tỉ lệ thể tích lớn nhất trong không khí?",
+   "options": [
+    "Oxi",
+    "Nitơ",
+    "Cacbonic",
+    "Argon"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q046",
+   "grade": 8,
+   "subject": "Hóa học",
+   "question": "Khí nào cần thiết cho sự hô hấp của con người?",
+   "options": [
+    "Nitơ",
+    "Cacbonic",
+    "Hiđro",
+    "Oxi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q047",
+   "grade": 9,
+   "subject": "Hóa học",
+   "question": "Công thức hóa học của muối ăn là gì?",
+   "options": [
+    "KCl",
+    "NaOH",
+    "NaCl",
+    "CaCO₃"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q048",
+   "grade": 9,
+   "subject": "Hóa học",
+   "question": "Dung dịch có pH nhỏ hơn 7 thì có tính chất nào?",
+   "options": [
+    "Tính muối",
+    "Trung tính",
+    "Tính bazơ",
+    "Tính axit"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q049",
+   "grade": 9,
+   "subject": "Hóa học",
+   "question": "Kim loại nào ở thể lỏng ở nhiệt độ thường?",
+   "options": [
+    "Đồng",
+    "Sắt",
+    "Nhôm",
+    "Thủy ngân"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q050",
+   "grade": 10,
+   "subject": "Hóa học",
+   "question": "Nguyên tử cacbon có số hiệu nguyên tử (số proton) bằng bao nhiêu?",
+   "options": [
+    "8",
+    "6",
+    "14",
+    "12"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q051",
+   "grade": 11,
+   "subject": "Hóa học",
+   "question": "Chất nào dưới đây là hiđrocacbon?",
+   "options": [
+    "C₂H₅OH (ancol etylic)",
+    "CH₄ (metan)",
+    "NaCl (muối ăn)",
+    "CH₃COOH (axit axetic)"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q052",
+   "grade": 5,
+   "subject": "Sinh học",
+   "question": "Bộ phận nào của cây hút nước và muối khoáng từ đất?",
+   "options": [
+    "Hoa",
+    "Thân",
+    "Lá",
+    "Rễ"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q053",
+   "grade": 6,
+   "subject": "Sinh học",
+   "question": "Quá trình cây xanh tạo chất hữu cơ từ nước, khí cacbonic và ánh sáng gọi là gì?",
+   "options": [
+    "Thoát hơi nước",
+    "Quang hợp",
+    "Hô hấp",
+    "Tiêu hóa"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q054",
+   "grade": 6,
+   "subject": "Sinh học",
+   "question": "Cơ quan nào của người là nơi trao đổi khí?",
+   "options": [
+    "Tim",
+    "Thận",
+    "Phổi",
+    "Dạ dày"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q055",
+   "grade": 7,
+   "subject": "Sinh học",
+   "question": "Cơ quan nào của người có chức năng lọc máu và tạo ra nước tiểu?",
+   "options": [
+    "Thận",
+    "Phổi",
+    "Tim",
+    "Gan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q056",
+   "grade": 7,
+   "subject": "Sinh học",
+   "question": "Con vật nào dưới đây thuộc lớp Chim?",
+   "options": [
+    "Dơi",
+    "Chim bồ câu",
+    "Cá heo",
+    "Cá sấu"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q057",
+   "grade": 8,
+   "subject": "Sinh học",
+   "question": "Cơ quan nào đẩy máu lưu thông trong hệ tuần hoàn?",
+   "options": [
+    "Tim",
+    "Dạ dày",
+    "Gan",
+    "Phổi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q058",
+   "grade": 9,
+   "subject": "Sinh học",
+   "question": "ADN là viết tắt của chất nào?",
+   "options": [
+    "Axit béo",
+    "Axit ribônuclêic",
+    "Axit đêôxiribônuclêic",
+    "Axit amin"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q059",
+   "grade": 9,
+   "subject": "Sinh học",
+   "question": "Tế bào người bình thường (tế bào sinh dưỡng) có bao nhiêu nhiễm sắc thể?",
+   "options": [
+    "44",
+    "46",
+    "23",
+    "48"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q060",
+   "grade": 10,
+   "subject": "Sinh học",
+   "question": "Bào quan nào được gọi là \"nhà máy năng lượng\" của tế bào?",
+   "options": [
+    "Ti thể",
+    "Nhân",
+    "Lục lạp",
+    "Ribôxôm"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q061",
+   "grade": 12,
+   "subject": "Sinh học",
+   "question": "Đơn vị cấu tạo và chức năng cơ bản của mọi cơ thể sống là gì?",
+   "options": [
+    "Cơ quan",
+    "Mô",
+    "Tế bào",
+    "Hệ cơ quan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q062",
+   "grade": 6,
+   "subject": "Lịch sử",
+   "question": "Hai Bà Trưng khởi nghĩa năm 40 để chống lại ách đô hộ của triều đại nào?",
+   "options": [
+    "Nhà Tống",
+    "Quân Mông – Nguyên",
+    "Nhà Hán",
+    "Nhà Minh"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q063",
+   "grade": 6,
+   "subject": "Lịch sử",
+   "question": "Ai là người lập ra nhà Lý và dời đô từ Hoa Lư về Thăng Long năm 1010?",
+   "options": [
+    "Lê Hoàn",
+    "Đinh Tiên Hoàng",
+    "Trần Thái Tông",
+    "Lý Công Uẩn"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q064",
+   "grade": 7,
+   "subject": "Lịch sử",
+   "question": "Chiến thắng Bạch Đằng năm 938 do ai lãnh đạo?",
+   "options": [
+    "Lê Lợi",
+    "Hai Bà Trưng",
+    "Trần Hưng Đạo",
+    "Ngô Quyền"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q065",
+   "grade": 8,
+   "subject": "Lịch sử",
+   "question": "Nhà Trần ba lần đánh thắng quân xâm lược nào?",
+   "options": [
+    "Tống",
+    "Thanh",
+    "Minh",
+    "Mông – Nguyên"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q066",
+   "grade": 8,
+   "subject": "Lịch sử",
+   "question": "Chiến thắng Điện Biên Phủ diễn ra vào năm nào?",
+   "options": [
+    "1968",
+    "1954",
+    "1945",
+    "1975"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q067",
+   "grade": 8,
+   "subject": "Lịch sử",
+   "question": "Cách mạng tháng Tám của Việt Nam thành công vào năm nào?",
+   "options": [
+    "1945",
+    "1946",
+    "1930",
+    "1954"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q068",
+   "grade": 8,
+   "subject": "Lịch sử",
+   "question": "Chiến dịch Hồ Chí Minh toàn thắng, giải phóng miền Nam vào ngày 30/4 năm nào?",
+   "options": [
+    "1975",
+    "1954",
+    "1973",
+    "1968"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q069",
+   "grade": 8,
+   "subject": "Lịch sử",
+   "question": "Kinh đô của triều Nguyễn, triều đại phong kiến cuối cùng của Việt Nam, đặt ở đâu?",
+   "options": [
+    "Hà Nội",
+    "Huế",
+    "Cổ Loa",
+    "Hoa Lư"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q070",
+   "grade": 9,
+   "subject": "Lịch sử",
+   "question": "Đảng Cộng sản Việt Nam được thành lập vào năm nào?",
+   "options": [
+    "1930",
+    "1945",
+    "1954",
+    "1925"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q071",
+   "grade": 9,
+   "subject": "Lịch sử",
+   "question": "Chiến tranh thế giới thứ hai kết thúc vào năm nào?",
+   "options": [
+    "1945",
+    "1950",
+    "1918",
+    "1939"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q072",
+   "grade": 5,
+   "subject": "Địa lí",
+   "question": "Thủ đô của nước Việt Nam là thành phố nào?",
+   "options": [
+    "Huế",
+    "TP. Hồ Chí Minh",
+    "Hà Nội",
+    "Đà Nẵng"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q073",
+   "grade": 5,
+   "subject": "Địa lí",
+   "question": "Đỉnh núi nào cao nhất Việt Nam?",
+   "options": [
+    "Tây Côn Lĩnh",
+    "Ngọc Linh",
+    "Phan-xi-păng",
+    "Bạch Mã"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q074",
+   "grade": 6,
+   "subject": "Địa lí",
+   "question": "Đại dương nào có diện tích lớn nhất thế giới?",
+   "options": [
+    "Đại Tây Dương",
+    "Ấn Độ Dương",
+    "Thái Bình Dương",
+    "Bắc Băng Dương"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q075",
+   "grade": 6,
+   "subject": "Địa lí",
+   "question": "Châu lục nào có diện tích lớn nhất thế giới?",
+   "options": [
+    "Châu Âu",
+    "Châu Mỹ",
+    "Châu Á",
+    "Châu Phi"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q076",
+   "grade": 6,
+   "subject": "Địa lí",
+   "question": "Sa mạc nóng lớn nhất thế giới là sa mạc nào?",
+   "options": [
+    "Ca-la-ha-ri",
+    "Sa-ha-ra",
+    "Ta-cla-ma-can",
+    "Gô-bi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q077",
+   "grade": 7,
+   "subject": "Địa lí",
+   "question": "Thủ đô của Nhật Bản là thành phố nào?",
+   "options": [
+    "Băng Cốc",
+    "Tô-ky-ô",
+    "Xơ-un",
+    "Bắc Kinh"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q078",
+   "grade": 7,
+   "subject": "Địa lí",
+   "question": "Dãy núi nào có đỉnh cao nhất thế giới?",
+   "options": [
+    "Hi-ma-lay-a",
+    "An-đét",
+    "An-pơ",
+    "Rốc-ky"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q079",
+   "grade": 8,
+   "subject": "Địa lí",
+   "question": "Việt Nam nằm ở khu vực nào của châu Á?",
+   "options": [
+    "Đông Nam Á",
+    "Tây Á",
+    "Nam Á",
+    "Đông Á"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q080",
+   "grade": 8,
+   "subject": "Địa lí",
+   "question": "Đồng bằng có diện tích lớn nhất Việt Nam là đồng bằng nào?",
+   "options": [
+    "Đồng bằng sông Mã",
+    "Đồng bằng duyên hải miền Trung",
+    "Đồng bằng sông Cửu Long",
+    "Đồng bằng sông Hồng"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q081",
+   "grade": 9,
+   "subject": "Địa lí",
+   "question": "Đường xích đạo chia Trái Đất thành hai phần nào?",
+   "options": [
+    "Lục địa và đại dương",
+    "Vùng nóng và vùng lạnh",
+    "Bán cầu Bắc và bán cầu Nam",
+    "Bán cầu Đông và bán cầu Tây"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q082",
+   "grade": 6,
+   "subject": "Tiếng Anh",
+   "question": "Từ \"apple\" trong tiếng Anh có nghĩa là gì?",
+   "options": [
+    "Quả chuối",
+    "Quả cam",
+    "Quả táo",
+    "Quả nho"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q083",
+   "grade": 6,
+   "subject": "Tiếng Anh",
+   "question": "\"Thank you\" có nghĩa là gì?",
+   "options": [
+    "Cảm ơn",
+    "Tạm biệt",
+    "Xin chào",
+    "Xin lỗi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q084",
+   "grade": 6,
+   "subject": "Tiếng Anh",
+   "question": "Dạng quá khứ đơn của động từ \"go\" là gì?",
+   "options": [
+    "gone",
+    "goed",
+    "went",
+    "going"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q085",
+   "grade": 7,
+   "subject": "Tiếng Anh",
+   "question": "Chọn từ đúng: \"I ___ a student.\"",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q086",
+   "grade": 7,
+   "subject": "Tiếng Anh",
+   "question": "Chọn từ đúng: \"She ___ to school every day.\"",
+   "options": [
+    "go",
+    "going",
+    "gone",
+    "goes"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q087",
+   "grade": 8,
+   "subject": "Tiếng Anh",
+   "question": "Từ nào trái nghĩa với \"hot\"?",
+   "options": [
+    "fast",
+    "big",
+    "cold",
+    "dry"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q088",
+   "grade": 9,
+   "subject": "Tiếng Anh",
+   "question": "Từ \"beautiful\" thuộc loại từ nào?",
+   "options": [
+    "Trạng từ",
+    "Động từ",
+    "Tính từ",
+    "Danh từ"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q089",
+   "grade": 10,
+   "subject": "Tiếng Anh",
+   "question": "Chọn đáp án đúng: \"If it rains, we ___ at home.\"",
+   "options": [
+    "staying",
+    "will stay",
+    "would have stayed",
+    "stayed"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q090",
+   "grade": 6,
+   "subject": "Tin học",
+   "question": "CPU là bộ phận nào của máy tính?",
+   "options": [
+    "Màn hình",
+    "Bộ xử lý trung tâm",
+    "Bàn phím",
+    "Bộ nhớ trong"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q091",
+   "grade": 7,
+   "subject": "Tin học",
+   "question": "Đơn vị nhỏ nhất để đo lượng thông tin trong máy tính là gì?",
+   "options": [
+    "KB",
+    "byte",
+    "MB",
+    "bit"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q092",
+   "grade": 8,
+   "subject": "Tin học",
+   "question": "1 byte bằng bao nhiêu bit?",
+   "options": [
+    "10 bit",
+    "4 bit",
+    "16 bit",
+    "8 bit"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "q093",
+   "grade": 10,
+   "subject": "Tin học",
+   "question": "Hệ nhị phân chỉ dùng những chữ số nào?",
+   "options": [
+    "0 và 1",
+    "1 và 2",
+    "Từ 0 đến 9",
+    "Từ A đến F"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q094",
+   "grade": 11,
+   "subject": "Tin học",
+   "question": "Thuật toán là gì?",
+   "options": [
+    "Dãy hữu hạn các bước xác định để giải một bài toán",
+    "Một chương trình đã được cài sẵn trong máy",
+    "Một loại phần cứng máy tính",
+    "Tên một ngôn ngữ lập trình"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q095",
+   "grade": 12,
+   "subject": "Tin học",
+   "question": "AI là viết tắt của cụm từ nào?",
+   "options": [
+    "Công nghệ thông tin",
+    "Trí tuệ nhân tạo (Artificial Intelligence)",
+    "Internet vạn vật",
+    "Thực tế ảo"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q096",
+   "grade": 6,
+   "subject": "Giáo dục công dân",
+   "question": "Quốc khánh của nước Việt Nam được kỷ niệm vào ngày nào?",
+   "options": [
+    "30/4",
+    "19/8",
+    "2/9",
+    "1/5"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "q097",
+   "grade": 6,
+   "subject": "Giáo dục công dân",
+   "question": "Quốc ca của nước Việt Nam là bài hát nào?",
+   "options": [
+    "Việt Nam quê hương tôi",
+    "Tiến quân ca",
+    "Giải phóng miền Nam",
+    "Quốc tế ca"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "q098",
+   "grade": 6,
+   "subject": "Giáo dục công dân",
+   "question": "Quốc kỳ của nước Việt Nam có hình dạng như thế nào?",
+   "options": [
+    "Nền đỏ, ngôi sao vàng năm cánh ở giữa",
+    "Nền xanh, ngôi sao trắng năm cánh",
+    "Nền vàng, ngôi sao đỏ năm cánh ở giữa",
+    "Nền đỏ, hai ngôi sao vàng"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q099",
+   "grade": 8,
+   "subject": "Giáo dục công dân",
+   "question": "Ngày Nhà giáo Việt Nam là ngày nào?",
+   "options": [
+    "20/11",
+    "2/9",
+    "1/6",
+    "8/3"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "q100",
+   "grade": 9,
+   "subject": "Giáo dục công dân",
+   "question": "Hiến pháp là gì?",
+   "options": [
+    "Một văn bản chỉ dành cho cơ quan thuế",
+    "Một bộ quy tắc của nhà trường",
+    "Một nghị định của địa phương",
+    "Đạo luật cơ bản có hiệu lực pháp lý cao nhất của một nước"
+   ],
+   "answer": 3
+  }
+ ]
+}

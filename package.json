@@ -1,0 +1,11 @@
+{
+  "name": "fantasy-adventure",
+  "private": true,
+  "packageManager": "pnpm@11.24.0",
+  "scripts": {
+    "dev": "pnpm --filter @fa/web dev",
+    "build": "pnpm --filter @fa/web build",
+    "test": "pnpm --filter @fa/game-core test",
+    "typecheck": "pnpm -r typecheck"
+  }
+}

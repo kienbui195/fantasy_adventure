@@ -1,0 +1,26 @@
+# Chạy trên VPS (không chạy ở laptop): cần mạng Docker `appnet`.
+# Domain: https://hanhtrinhkyao.baodom.xyz (Caddy trên máy chủ chuyển vào cổng 47105).
+# Deploy: git push origin main rồi `vps release hanhtrinhkyao`.
+# Tên project và tên image bắt buộc chữ thường (quy định của Docker); tên container viết hoa cho dễ nhớ.
+# Giai đoạn BE sẽ thêm dịch vụ NestJS (HanhTrinhKyAo-api).
+name: hanhtrinhkyao
+services:
+  hanhtrinhkyao-web:
+    build: .
+    image: hanhtrinhkyao-web:latest
+    container_name: HanhTrinhKyAo-web
+    restart: unless-stopped
+    # Caddy chạy trên máy chủ nên cần một cổng chỉ nghe ở 127.0.0.1.
+    ports:
+      - "127.0.0.1:47105:80"
+    # Caddy chỉ phục vụ HTTP trong container, không có chứng chỉ cần giữ: /data và /config để tạm.
+    tmpfs: [/tmp, /data, /config]
+    networks: [appnet]
+    mem_limit: 64m
+    read_only: true
+    cap_drop: [ALL]
+    cap_add: [NET_BIND_SERVICE]
+    security_opt: ["no-new-privileges:true"]
+networks:
+  appnet:
+    external: true
